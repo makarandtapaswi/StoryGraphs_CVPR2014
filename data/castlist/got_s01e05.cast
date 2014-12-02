@@ -1,0 +1,258 @@
+{
+	"url": "http://www.westeros.org/GoT/Episodes/Entry/4979",
+	"episode": "The Wolf and the Lion S01E05",
+	"Characters": [
+		{
+			"name": "Arya Stark",
+			"first_name": "Arya",
+			"last_name": "Stark",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Barristan Selmy",
+			"first_name": "Barristan",
+			"last_name": "Selmy",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Bran Stark",
+			"first_name": "Bran",
+			"last_name": "Stark",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Bronn",
+			"first_name": "Bronn",
+			"last_name": null,
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Catelyn Stark",
+			"first_name": "Catelyn",
+			"last_name": "Stark",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Cersei Lannister",
+			"first_name": "Cersei",
+			"last_name": "Lannister",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Eddard Stark",
+			"first_name": "Eddard",
+			"last_name": "Stark",
+			"aliases": "Ned",
+			"gender": "m"
+		},
+		{
+			"name": "Grand Maester Pycelle",
+			"first_name": "Pycelle",
+			"last_name": "Grand Maester",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Gregor Clegane",
+			"first_name": "Gregor",
+			"last_name": "Clegane",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Illyrio Mopatis",
+			"first_name": "Illyrio",
+			"last_name": "Mopatis",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Jaime Lannister",
+			"first_name": "Jaime",
+			"last_name": "Lannister",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Joffrey Baratheon",
+			"first_name": "Joffrey",
+			"last_name": "Baratheon",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Jory Cassel",
+			"first_name": "Jory",
+			"last_name": "Cassel",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Lancel Lannister",
+			"first_name": "Lancel",
+			"last_name": "Lannister",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Loras Tyrell",
+			"first_name": "Loras",
+			"last_name": "Tyrell",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Lysa Arryn",
+			"first_name": "Lysa",
+			"last_name": "Arryn",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Maester Luwin",
+			"first_name": "Luwin",
+			"last_name": "Maester",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Marillion",
+			"first_name": "Marillion",
+			"last_name": null,
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Mhaegen",
+			"first_name": "Mhaegen",
+			"last_name": null,
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Mord",
+			"first_name": "Mord",
+			"last_name": null,
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Myrcella Baratheon",
+			"first_name": "Myrcella",
+			"last_name": "Baratheon",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Petyr Baelish",
+			"first_name": "Petyr",
+			"last_name": "Baelish",
+			"aliases": "Littlefinger",
+			"gender": "m"
+		},
+		{
+			"name": "Renly Baratheon",
+			"first_name": "Renly",
+			"last_name": "Baratheon",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Robert Baratheon",
+			"first_name": "Robert",
+			"last_name": "Baratheon",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Robin Arryn",
+			"first_name": "Robin",
+			"last_name": "Arryn",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Rodrik Cassel",
+			"first_name": "Rodrik",
+			"last_name": "Cassel",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Ros",
+			"first_name": "Ros",
+			"last_name": null,
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Sandor Clegane",
+			"first_name": "Sandor",
+			"last_name": "Clegane",
+			"aliases": "Hound",
+			"gender": "m"
+		},
+		{
+			"name": "Sansa Stark",
+			"first_name": "Sansa",
+			"last_name": "Stark",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Septa Mordane",
+			"first_name": "Septa",
+			"last_name": "Mordane",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Theon Greyjoy",
+			"first_name": "Theon",
+			"last_name": "Greyjoy",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Tommen Baratheon",
+			"first_name": "Tommen",
+			"last_name": "Baratheon",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Tyrion Lannister",
+			"first_name": "Tyrion",
+			"last_name": "Lannister",
+			"aliases": "Imp",
+			"gender": "m"
+		},
+		{
+			"name": "Vardis Egan",
+			"first_name": "Vardis",
+			"last_name": "Egan",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Varys",
+			"first_name": "Varys",
+			"last_name": null,
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Yoren",
+			"first_name": "Yoren",
+			"last_name": null,
+			"aliases": null,
+			"gender": "m"
+		}
+	]
+}

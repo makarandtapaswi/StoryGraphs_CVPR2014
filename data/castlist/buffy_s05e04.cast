@@ -1,0 +1,65 @@
+{
+	"episode": "Out of My Mind S05E04",
+	"Characters": [
+		{
+			"name": "anya",
+			"gender": "f"
+		},
+		{
+			"name": "ben",
+			"gender": "m"
+		},
+		{
+			"name": "buffy",
+			"gender": "f"
+		},
+		{
+			"name": "dawn",
+			"gender": "f"
+		},
+		{
+			"name": "giles",
+			"gender": "m"
+		},
+		{
+			"name": "graham",
+			"gender": "m"
+		},
+		{
+			"name": "harmony",
+			"gender": "f"
+		},
+		{
+			"name": "joyce",
+			"gender": "f"
+		},
+		{
+			"name": "overheiser",
+			"gender": "m"
+		},
+		{
+			"name": "riley",
+			"gender": "m"
+		},
+		{
+			"name": "spike",
+			"gender": "m"
+		},
+		{
+			"name": "tara",
+			"gender": "f"
+		},
+		{
+			"name": "unknown",
+			"gender": "m"
+		},
+		{
+			"name": "willow",
+			"gender": "f"
+		},
+		{
+			"name": "xander",
+			"gender": "m"
+		}
+	]
+}

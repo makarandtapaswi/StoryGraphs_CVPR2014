@@ -1,0 +1,293 @@
+{
+	"url": "http://www.westeros.org/GoT/Episodes/Entry/4983",
+	"episode": "Baelor S01E09",
+	"Characters": [
+		{
+			"name": "Arya Stark",
+			"first_name": "Arya",
+			"last_name": "Stark",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Bronn",
+			"first_name": "Bronn",
+			"last_name": null,
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Catelyn Stark",
+			"first_name": "Catelyn",
+			"last_name": "Stark",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Cersei Lannister",
+			"first_name": "Cersei",
+			"last_name": "Lannister",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Daenerys Targaryen",
+			"first_name": "Daenerys",
+			"last_name": "Targaryen",
+			"aliases": "Khaleesi",
+			"gender": "f"
+		},
+		{
+			"name": "Doreah",
+			"first_name": "Doreah",
+			"last_name": null,
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Eddard Stark",
+			"first_name": "Eddard",
+			"last_name": "Stark",
+			"aliases": "Ned",
+			"gender": "m"
+		},
+		{
+			"name": "Grand Maester Pycelle",
+			"first_name": "Pycelle",
+			"last_name": "Grand Maester",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Grenn",
+			"first_name": "Grenn",
+			"last_name": null,
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Ilyn Payne",
+			"first_name": "Ilyn",
+			"last_name": "Payne",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Irri",
+			"first_name": "Irri",
+			"last_name": null,
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Jaime Lannister",
+			"first_name": "Jaime",
+			"last_name": "Lannister",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Janos Slynt",
+			"first_name": "Janos",
+			"last_name": "Slynt",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Jeor Mormont",
+			"first_name": "Jeor",
+			"last_name": "Mormont",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Joffrey Baratheon",
+			"first_name": "Joffrey",
+			"last_name": "Baratheon",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Jon Snow",
+			"first_name": "Jon",
+			"last_name": "Snow",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Jon Umber",
+			"first_name": "Jon",
+			"last_name": "Umber",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Jorah Mormont",
+			"first_name": "Jorah",
+			"last_name": "Mormont",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Kevan Lannister",
+			"first_name": "Kevan",
+			"last_name": "Lannister",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Khal Drogo",
+			"first_name": "Khal",
+			"last_name": "Drogo",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Maester Aemon",
+			"first_name": "Aemon",
+			"last_name": "Maester",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Mirri Maz Duur",
+			"first_name": "Mirri Maz",
+			"last_name": "Duur",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Petyr Baelish",
+			"first_name": "Petyr",
+			"last_name": "Baelish",
+			"aliases": "Littlefinger",
+			"gender": "m"
+		},
+		{
+			"name": "Pypar",
+			"first_name": "Pypar",
+			"last_name": null,
+			"aliases": "Pyp",
+			"gender": "m"
+		},
+		{
+			"name": "Qotho",
+			"first_name": "Qotho",
+			"last_name": null,
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Rakharo",
+			"first_name": "Rakharo",
+			"last_name": null,
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Rast",
+			"first_name": "Rast",
+			"last_name": null,
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Robb Stark",
+			"first_name": "Robb",
+			"last_name": "Stark",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Rodrik Cassel",
+			"first_name": "Rodrik",
+			"last_name": "Cassel",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Samwell Tarly",
+			"first_name": "Samwell",
+			"last_name": "Tarly",
+			"aliases": "Sam",
+			"gender": "m"
+		},
+		{
+			"name": "Sandor Clegane",
+			"first_name": "Sandor",
+			"last_name": "Clegane",
+			"aliases": "Hound",
+			"gender": "m"
+		},
+		{
+			"name": "Sansa Stark",
+			"first_name": "Sansa",
+			"last_name": "Stark",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Shae",
+			"first_name": "Shae",
+			"last_name": null,
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Shagga",
+			"first_name": "Shagga",
+			"last_name": null,
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Theon Greyjoy",
+			"first_name": "Theon",
+			"last_name": "Greyjoy",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Timett",
+			"first_name": "Timett",
+			"last_name": null,
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Tyrion Lannister",
+			"first_name": "Tyrion",
+			"last_name": "Lannister",
+			"aliases": "Imp",
+			"gender": "m"
+		},
+		{
+			"name": "Tywin Lannister",
+			"first_name": "Tywin",
+			"last_name": "Lannister",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Varys",
+			"first_name": "Varys",
+			"last_name": null,
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Walder Frey",
+			"first_name": "Walder",
+			"last_name": "Frey",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Yoren",
+			"first_name": "Yoren",
+			"last_name": null,
+			"aliases": null,
+			"gender": "m"
+		}
+	]
+}

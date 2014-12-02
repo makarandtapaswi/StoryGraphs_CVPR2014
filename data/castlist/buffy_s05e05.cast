@@ -1,0 +1,65 @@
+{
+	"episode": "No Place Like Home S05E05",
+	"Characters": [
+		{
+			"name": "buffy",
+			"gender": "f"
+		},
+		{
+			"name": "xander",
+			"gender": "m"
+		},
+		{
+			"name": "willow",
+			"gender": "f"
+		},
+		{
+			"name": "riley",
+			"gender": "m"
+		},
+		{
+			"name": "anya",
+			"gender": "f"
+		},
+		{
+			"name": "dawn",
+			"gender": "f"
+		},
+		{
+			"name": "spike",
+			"gender": "m"
+		},
+		{
+			"name": "giles",
+			"gender": "m"
+		},
+		{
+			"name": "glory",
+			"gender": "f"
+		},
+		{
+			"name": "ben",
+			"gender": "m"
+		},
+		{
+			"name": "monk",
+			"gender": "m"
+		},
+		{
+			"name": "joyce",
+			"gender": "f"
+		},
+		{
+			"name": "watchman",
+			"gender": "m"
+		},
+		{
+			"name": "unknown",
+			"gender": "m"
+		},
+		{
+			"name": "graham",
+			"gender": "m"
+		}
+	]
+}

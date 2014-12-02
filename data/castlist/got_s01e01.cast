@@ -1,0 +1,251 @@
+{
+	"url": "http://www.westeros.org/GoT/Episodes/Entry/Winter_is_Coming",
+	"episode": "Winter is Coming S01E01",
+	"Characters": [
+		{
+			"name": "Arya Stark",
+			"first_name": "Arya",
+			"last_name": "Stark",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Benjen Stark",
+			"first_name": "Benjen",
+			"last_name": "Stark",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Bran Stark",
+			"first_name": "Bran",
+			"last_name": "Stark",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Catelyn Stark",
+			"first_name": "Catelyn",
+			"last_name": "Stark",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Cersei Lannister",
+			"first_name": "Cersei",
+			"last_name": "Lannister",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Daenerys Targaryen",
+			"first_name": "Daenerys",
+			"last_name": "Targaryen",
+			"aliases": "Khaleesi",
+			"gender": "f"
+		},
+		{
+			"name": "Eddard Stark",
+			"first_name": "Eddard",
+			"last_name": "Stark",
+			"aliases": "Ned",
+			"gender": "m"
+		},
+		{
+			"name": "Gared",
+			"first_name": "Gared",
+			"last_name": null,
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Hodor",
+			"first_name": "Hodor",
+			"last_name": null,
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Illyrio Mopatis",
+			"first_name": "Illyrio",
+			"last_name": "Mopatis",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Jaime Lannister",
+			"first_name": "Jaime",
+			"last_name": "Lannister",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Jeyne Poole",
+			"first_name": "Jeyne",
+			"last_name": "Poole",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Joffrey Baratheon",
+			"first_name": "Joffrey",
+			"last_name": "Baratheon",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Jon Arryn",
+			"first_name": "Jon",
+			"last_name": "Arryn",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Jon Snow",
+			"first_name": "Jon",
+			"last_name": "Snow",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Jorah Mormont",
+			"first_name": "Jorah",
+			"last_name": "Mormont",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Jory Cassel",
+			"first_name": "Jory",
+			"last_name": "Cassel",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Khal Drogo",
+			"first_name": "Khal",
+			"last_name": "Drogo",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Maester Luwin",
+			"first_name": "Luwin",
+			"last_name": "Maester",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Myrcella Baratheon",
+			"first_name": "Myrcella",
+			"last_name": "Baratheon",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Qotho",
+			"first_name": "Qotho",
+			"last_name": null,
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Rickon Stark",
+			"first_name": "Rickon",
+			"last_name": "Stark",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Robb Stark",
+			"first_name": "Robb",
+			"last_name": "Stark",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Robert Baratheon",
+			"first_name": "Robert",
+			"last_name": "Baratheon",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Rodrik Cassel",
+			"first_name": "Rodrik",
+			"last_name": "Cassel",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Ros",
+			"first_name": "Ros",
+			"last_name": null,
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Sandor Clegane",
+			"first_name": "Sandor",
+			"last_name": "Clegane",
+			"aliases": "Hound",
+			"gender": "m"
+		},
+		{
+			"name": "Sansa Stark",
+			"first_name": "Sansa",
+			"last_name": "Stark",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Septa Mordane",
+			"first_name": "Septa",
+			"last_name": "Mordane",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Theon Greyjoy",
+			"first_name": "Theon",
+			"last_name": "Greyjoy",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Tommen Baratheon",
+			"first_name": "Tommen",
+			"last_name": "Baratheon",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Tyrion Lannister",
+			"first_name": "Tyrion",
+			"last_name": "Lannister",
+			"aliases": "Imp",
+			"gender": "m"
+		},
+		{
+			"name": "Viserys Targaryen",
+			"first_name": "Viserys",
+			"last_name": "Targaryen",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Waymar Royce",
+			"first_name": "Waymar",
+			"last_name": "Royce",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Will",
+			"first_name": "Will",
+			"last_name": null,
+			"aliases": null,
+			"gender": "m"
+		}
+	]
+}

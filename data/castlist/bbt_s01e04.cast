@@ -1,0 +1,36 @@
+{
+	"Characters": [
+		{
+			"name": "leonard",
+			"gender": "m"
+		},
+		{
+			"name": "sheldon",
+			"gender": "m"
+		},
+		{
+			"name": "penny",
+			"gender": "f"
+		},
+		{
+			"name": "howard",
+			"gender": "m"
+		},
+		{
+			"name": "raj",
+			"gender": "m"
+		},
+		{
+			"name": "summer",
+			"gender": "f"
+		},
+		{
+			"name": "gablehauser",
+			"gender": "m"
+		},
+		{
+			"name": "mary",
+			"gender": "f"
+		}
+	]
+}

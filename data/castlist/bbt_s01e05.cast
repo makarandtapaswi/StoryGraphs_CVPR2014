@@ -1,0 +1,28 @@
+{
+	"Characters": [
+		{
+			"name": "leonard",
+			"gender": "m"
+		},
+		{
+			"name": "sheldon",
+			"gender": "m"
+		},
+		{
+			"name": "penny",
+			"gender": "f"
+		},
+		{
+			"name": "howard",
+			"gender": "m"
+		},
+		{
+			"name": "raj",
+			"gender": "m"
+		},
+		{
+			"name": "leslie",
+			"gender": "f"
+		}
+	]
+}

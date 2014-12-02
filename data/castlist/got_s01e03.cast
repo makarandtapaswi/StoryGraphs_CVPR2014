@@ -1,0 +1,265 @@
+{
+	"url": "http://www.westeros.org/GoT/Episodes/Entry/4952",
+	"episode": "Lord Snow S01E03",
+	"Characters": [
+		{
+			"name": "Alliser Thorne",
+			"first_name": "Alliser",
+			"last_name": "Thorne",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Arya Stark",
+			"first_name": "Arya",
+			"last_name": "Stark",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Barristan Selmy",
+			"first_name": "Barristan",
+			"last_name": "Selmy",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Benjen Stark",
+			"first_name": "Benjen",
+			"last_name": "Stark",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Bran Stark",
+			"first_name": "Bran",
+			"last_name": "Stark",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Catelyn Stark",
+			"first_name": "Catelyn",
+			"last_name": "Stark",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Cersei Lannister",
+			"first_name": "Cersei",
+			"last_name": "Lannister",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Daenerys Targaryen",
+			"first_name": "Daenerys",
+			"last_name": "Targaryen",
+			"aliases": "Khaleesi",
+			"gender": "f"
+		},
+		{
+			"name": "Eddard Stark",
+			"first_name": "Eddard",
+			"last_name": "Stark",
+			"aliases": "Ned",
+			"gender": "m"
+		},
+		{
+			"name": "Grand Maester Pycelle",
+			"first_name": "Pycelle",
+			"last_name": "Grand Maester",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Grenn",
+			"first_name": "Grenn",
+			"last_name": null,
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Irri",
+			"first_name": "Irri",
+			"last_name": null,
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Jaime Lannister",
+			"first_name": "Jaime",
+			"last_name": "Lannister",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Jeor Mormont",
+			"first_name": "Jeor",
+			"last_name": "Mormont",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Joffrey Baratheon",
+			"first_name": "Joffrey",
+			"last_name": "Baratheon",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Jon Snow",
+			"first_name": "Jon",
+			"last_name": "Snow",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Jorah Mormont",
+			"first_name": "Jorah",
+			"last_name": "Mormont",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Jory Cassel",
+			"first_name": "Jory",
+			"last_name": "Cassel",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Khal Drogo",
+			"first_name": "Khal",
+			"last_name": "Drogo",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Lancel Lannister",
+			"first_name": "Lancel",
+			"last_name": "Lannister",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Maester Aemon",
+			"first_name": "Aemon",
+			"last_name": "Maester",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Old Nan",
+			"first_name": "Nan",
+			"last_name": "Old",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Petyr Baelish",
+			"first_name": "Petyr",
+			"last_name": "Baelish",
+			"aliases": "Littlefinger",
+			"gender": "m"
+		},
+		{
+			"name": "Pypar",
+			"first_name": "Pypar",
+			"last_name": null,
+			"aliases": "Pyp",
+			"gender": "m"
+		},
+		{
+			"name": "Rakharo",
+			"first_name": "Rakharo",
+			"last_name": null,
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Rast",
+			"first_name": "Rast",
+			"last_name": null,
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Renly Baratheon",
+			"first_name": "Renly",
+			"last_name": "Baratheon",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Robb Stark",
+			"first_name": "Robb",
+			"last_name": "Stark",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Robert Baratheon",
+			"first_name": "Robert",
+			"last_name": "Baratheon",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Rodrik Cassel",
+			"first_name": "Rodrik",
+			"last_name": "Cassel",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Sansa Stark",
+			"first_name": "Sansa",
+			"last_name": "Stark",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Septa Mordane",
+			"first_name": "Septa",
+			"last_name": "Mordane",
+			"aliases": null,
+			"gender": "f"
+		},
+		{
+			"name": "Syrio Forel",
+			"first_name": "Syrio",
+			"last_name": "Forel",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Tyrion Lannister",
+			"first_name": "Tyrion",
+			"last_name": "Lannister",
+			"aliases": "Imp",
+			"gender": "m"
+		},
+		{
+			"name": "Varys",
+			"first_name": "Varys",
+			"last_name": null,
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Viserys Targaryen",
+			"first_name": "Viserys",
+			"last_name": "Targaryen",
+			"aliases": null,
+			"gender": "m"
+		},
+		{
+			"name": "Yoren",
+			"first_name": "Yoren",
+			"last_name": null,
+			"aliases": null,
+			"gender": "m"
+		}
+	]
+}
