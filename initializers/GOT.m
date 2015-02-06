@@ -1,5 +1,5 @@
 function VideoStruct = GOT(season, episode)
-% Initialize PERSONID project for Game of Thrones
+% Initialize STORYGRAPH project for Game of Thrones
 % Given season and episode
 %
 

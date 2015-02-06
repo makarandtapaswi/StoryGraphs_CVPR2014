@@ -20,7 +20,7 @@ I haven't tried with the new graphics engine on Matlab R2014b and <code>draw_sto
 
 
 ### First initialization
-The <code>first_init.m</code> script will be called on running <code>startup.m</code> the first time. This will ask you to install two external toolboxes. Please follow the instructions.
+The <code>first_init.m</code> script will be called on running <code>startup.m</code> the first time. This will ask you to install three external toolboxes. Please follow the instructions.
 
 ---
 ### Example usage

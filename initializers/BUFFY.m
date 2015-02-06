@@ -1,5 +1,5 @@
 function VideoStruct = BUFFY(season, episode)
-% Initialize PERSONID project for The Big Bang Theory
+% Initialize STORYGRAPH project for Buffy the Vampire Slayer
 % Given season and episode
 %
 
