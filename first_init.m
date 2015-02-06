@@ -4,6 +4,9 @@ global SGparams;
 % Create a file in PROJECTROOT/tmp/ to know whether it has been accessed before
 tmp_fname = 'tmp/first_init';
 if exist(tmp_fname, 'file')
+    addpath(genpath('ext/jsonlab/'));
+    addpath(genpath('ext/export_fig/'));
+    addpath(genpath('ext/xticklabel_rotate/'));
     return;
 else
     if ~isdir('tmp'), mkdir('tmp'); end
