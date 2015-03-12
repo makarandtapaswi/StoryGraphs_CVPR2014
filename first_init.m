@@ -8,12 +8,9 @@ if exist(tmp_fname, 'file')
     addpath(genpath('ext/export_fig/'));
     addpath(genpath('ext/xticklabel_rotate/'));
     return;
-else
-    if ~isdir('tmp'), mkdir('tmp'); end
-    fid = fopen(tmp_fname, 'w');
-    fprintf(fid, 'Created temporary file on %s\n', date);
-    fclose(fid);
 end
+
+if ~isdir('tmp'), mkdir('tmp'); end
 
 %% jsonlab
 fprintf(2, 'Matlab - JSON interface.\n');
@@ -70,7 +67,7 @@ end
 addpath(genpath('ext/xticklabel_rotate/'));
 try
     plot(1:10, 1:10);
-    xticklabel_rotate(45);
+    xticklabel_rotate(1:10, 45);
     close all;
     fprintf('Success!\n\n');
 catch
@@ -78,7 +75,11 @@ catch
     delete(tmp_fname);
 end
 
+%% Create file to indicate first_init ran successfully
+fid = fopen(tmp_fname, 'w');
+fprintf(fid, 'Created temporary file on %s\n', date);
+fclose(fid);
 
-
+clear tmp_fname fid json_fname efig_fname ans
 
 
