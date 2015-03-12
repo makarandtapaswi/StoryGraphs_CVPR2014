@@ -7,7 +7,7 @@ This is a Matlab implementation of the paper:
 StoryGraphs: Visualizing Character Interactions as a Timeline  
 Makarand Tapaswi, Martin Bäuml, and Rainer Stiefelhagen  
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014  
-[Project page](https://cvhci.anthropomatik.kit.edu/~mtapaswi/projects-storygraphs.html) | [download](https://cvhci.anthropomatik.kit.edu/~mtapaswi/papers/CVPR2014.pdf)
+[Project page](https://cvhci.anthropomatik.kit.edu/~mtapaswi/projects-storygraphs.html) | [Paper download](https://cvhci.anthropomatik.kit.edu/~mtapaswi/papers/CVPR2014.pdf) | [ShotThreading & SceneDetection code](https://github.com/makarandtapaswi/Video_ShotThread_SceneDetect)
 
 ----
 
